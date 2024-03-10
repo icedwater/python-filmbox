@@ -1,0 +1,8 @@
+# vim swaps
+.*.sw?
+
+# filmbox files unless explicitly added
+*.fbx
+
+# python binaries
+*.py?
