@@ -32,7 +32,7 @@ After the above steps on Ubuntu 22.04 / Python 3.10, I was able to import `pyfbx
 Doing `dir()` shows many methods under `pyfbx.core`, which should let me parse
 FBX files, but doesn't seem to work on a file which I know contains some data.
 
-[filmbox]: https://en.wikipedia.org/FBX
+[filmbox]: https://en.wikipedia.org/wiki/FBX
 [pyfbx]: https://github.com/nannafudge/pyfbx
 [nf]: https://github.com/nannafudge/
 [thread]: https://github.com/nannafudge/pyfbx/issues/2#issuecomment-1026294475
